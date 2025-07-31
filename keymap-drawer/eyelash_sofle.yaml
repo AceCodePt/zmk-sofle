@@ -14,7 +14,7 @@ layers:
   - {t: '9', s: (}
   - {t: '0', s: )}
   - {t: '-', s: _}
-  - $$mdi:keyboard-tab$$
+  - $$mdi:keyboard-esc$$
   - Q
   - W
   - E
@@ -63,7 +63,7 @@ layers:
   - '2'
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:apple-keyboard-option$$
-  - $$mdi:keyboard-esc$$
+  - $$mdi:keyboard-tab$$
   - $$mdi:apple-keyboard-control$$
   layer1:
   - {t: '`', s: '~'}
