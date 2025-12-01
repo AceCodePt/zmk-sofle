@@ -15,7 +15,7 @@ layers:
   - {t: '0', s: )}
   - {t: '-', s: _}
   - $$mdi:keyboard-tab$$
-  - Q
+  - {t: '=', s: +}
   - W
   - E
   - R
@@ -63,7 +63,7 @@ layers:
   - '2'
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:apple-keyboard-option$$
-  - $$mdi:backspace-reverse-outline$$
+  - LGUI
   - $$mdi:apple-keyboard-control$$
   layer1:
   - {t: '$$mdi:transfer$$', type: trans}
@@ -80,7 +80,7 @@ layers:
   - F10
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - Q
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
